@@ -36,12 +36,10 @@ Yes. The form submits smoothly via AJAX.
 **Is it secure?**  
 Absolutely. It includes nonce checks, sanitization, and a honeypot field to block spam bots.
 
-## 🖼️ Screenshots
-
-1. Front-end contact form  
-2. Confirmation message after submission  
-3. Example filled-out form  
-4. Email received in Gmail
+🖼️ Screenshots
+1. Front-end contact form
+2. Confirmation message after submission
+3. Email received in Gmail
 
 ## 📦 Changelog
 
